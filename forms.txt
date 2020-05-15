@@ -1,0 +1,6 @@
+<form action="includes/login.inc.php" method="post">
+		<input type="text" name="mailuid" placeholder="Username/Email">
+		<input type="password" name="mailuid" placeholder="Password" color>
+		<button type="submit" name="login-submit">Login</button>
+		<a href="signup.php">Signup</a>
+		</form>
